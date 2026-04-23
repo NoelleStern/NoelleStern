@@ -24,21 +24,23 @@ I'm a developer and an IT generalist who loves tinkering with both code and hard
 
 <details><summary>More Skills</summary><br>
 
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=64b964)
-![OpenWRT](https://img.shields.io/badge/OS-OpenWRT-informational?style=flat&logo=openwrt&logoColor=white&color=64b964) <br>
-![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css&logoColor=white&color=508cd7) ![SASS](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=sass&logoColor=white&color=508cd7)
-![Tailwind CSS](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=508cd7) ![Daisy UI](https://img.shields.io/badge/Style-DaisyUI-informational?style=flat&logo=daisyui&logoColor=white&color=508cd7) <br>
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=d77355)
-![NGINX](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=d77355)
-![GitHub Actions](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=d77355)
-![NPM](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=d77355)
-![Vite](https://img.shields.io/badge/Tools-Vite-informational?style=flat&logo=vite&logoColor=white&color=d77355)
-![FFmpeg](https://img.shields.io/badge/Tools-FFmpeg-informational?style=flat&logo=ffmpeg&logoColor=white&color=d77355) <br>
-![Godot](https://img.shields.io/badge/Gamedev-Godot-informational?style=flat&logo=godot-engine&logoColor=white&color=f04c73)
-![Blender](https://img.shields.io/badge/Gamedev-Blender-informational?style=flat&logo=blender&logoColor=white&color=f04c73)
-![GIMP](https://img.shields.io/badge/Gamedev-GIMP-informational?style=flat&logo=gimp&logoColor=white&color=f04c73)
-![Krita](https://img.shields.io/badge/Gamedev-Krita-informational?style=flat&logo=krita&logoColor=white&color=f04c73)
-![Aseprite](https://img.shields.io/badge/Gamedev-Aseprite-informational?style=flat&logo=aseprite&logoColor=white&color=f04c73)
+[![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=64b964)](https://en.wikipedia.org/wiki/Linux)
+[![OpenWRT](https://img.shields.io/badge/OS-OpenWRT-informational?style=flat&logo=openwrt&logoColor=white&color=64b964)](https://openwrt.org/) <br>
+[![CSS](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css&logoColor=white&color=508cd7)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SASS](https://img.shields.io/badge/Style-SASS-informational?style=flat&logo=sass&logoColor=white&color=508cd7)](https://sass-lang.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=508cd7)](https://tailwindcss.com/)
+[![Daisy UI](https://img.shields.io/badge/Style-DaisyUI-informational?style=flat&logo=daisyui&logoColor=white&color=508cd7)](https://daisyui.com/) <br>
+[![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=d77355)](https://www.docker.com/)
+[![NGINX](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=d77355)](https://nginx.org/)
+[![GitHub Actions](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=d77355)](https://github.com/features/actions)
+[![NPM](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=d77355)](https://www.npmjs.com/)
+[![Vite](https://img.shields.io/badge/Tools-Vite-informational?style=flat&logo=vite&logoColor=white&color=d77355)](https://vite.dev/)
+[![FFmpeg](https://img.shields.io/badge/Tools-FFmpeg-informational?style=flat&logo=ffmpeg&logoColor=white&color=d77355)](https://www.ffmpeg.org/) <br>
+[![Godot](https://img.shields.io/badge/Gamedev-Godot-informational?style=flat&logo=godot-engine&logoColor=white&color=f04c73)](https://godotengine.org/)
+[![Blender](https://img.shields.io/badge/Gamedev-Blender-informational?style=flat&logo=blender&logoColor=white&color=f04c73)](https://www.blender.org/)
+[![GIMP](https://img.shields.io/badge/Gamedev-GIMP-informational?style=flat&logo=gimp&logoColor=white&color=f04c73)](https://www.gimp.org/)
+[![Krita](https://img.shields.io/badge/Gamedev-Krita-informational?style=flat&logo=krita&logoColor=white&color=f04c73)](https://krita.org/)
+[![Aseprite](https://img.shields.io/badge/Gamedev-Aseprite-informational?style=flat&logo=aseprite&logoColor=white&color=f04c73)](https://www.aseprite.org/)
 
 </details>
 
